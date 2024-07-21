@@ -1,0 +1,5 @@
+BasePack\BaseClass.class
+Locators\Signin.class
+Locators\FillupDetails.class
+Locators\AddressInformation.class
+Locators\Signup.class
